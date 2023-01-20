@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "SVJK.Ms.Articulo.Aplicacion/1.0.0": {
+        "runtime": {
+          "SVJK.Ms.Articulo.Aplicacion.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SVJK.Ms.Articulo.Aplicacion/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,13 @@
+C:\Microservicios JK\Solucion Sistema de Venta JK\SVJK.Ms.Articulo.Infraestructura\bin\Debug\netcoreapp3.1\SVJK.Ms.Articulo.Infraestructura.deps.json
+C:\Microservicios JK\Solucion Sistema de Venta JK\SVJK.Ms.Articulo.Infraestructura\bin\Debug\netcoreapp3.1\SVJK.Ms.Articulo.Infraestructura.dll
+C:\Microservicios JK\Solucion Sistema de Venta JK\SVJK.Ms.Articulo.Infraestructura\bin\Debug\netcoreapp3.1\SVJK.Ms.Articulo.Infraestructura.pdb
+C:\Microservicios JK\Solucion Sistema de Venta JK\SVJK.Ms.Articulo.Infraestructura\bin\Debug\netcoreapp3.1\SVJK.Ms.Articulo.Dominio.dll
+C:\Microservicios JK\Solucion Sistema de Venta JK\SVJK.Ms.Articulo.Infraestructura\bin\Debug\netcoreapp3.1\SVJK.Ms.Articulo.Dominio.pdb
+C:\Microservicios JK\Solucion Sistema de Venta JK\SVJK.Ms.Articulo.Infraestructura\obj\Debug\netcoreapp3.1\SVJK.Ms.Articulo.Infraestructura.csproj.AssemblyReference.cache
+C:\Microservicios JK\Solucion Sistema de Venta JK\SVJK.Ms.Articulo.Infraestructura\obj\Debug\netcoreapp3.1\SVJK.Ms.Articulo.Infraestructura.GeneratedMSBuildEditorConfig.editorconfig
+C:\Microservicios JK\Solucion Sistema de Venta JK\SVJK.Ms.Articulo.Infraestructura\obj\Debug\netcoreapp3.1\SVJK.Ms.Articulo.Infraestructura.AssemblyInfoInputs.cache
+C:\Microservicios JK\Solucion Sistema de Venta JK\SVJK.Ms.Articulo.Infraestructura\obj\Debug\netcoreapp3.1\SVJK.Ms.Articulo.Infraestructura.AssemblyInfo.cs
+C:\Microservicios JK\Solucion Sistema de Venta JK\SVJK.Ms.Articulo.Infraestructura\obj\Debug\netcoreapp3.1\SVJK.Ms.Articulo.Infraestructura.csproj.CoreCompileInputs.cache
+C:\Microservicios JK\Solucion Sistema de Venta JK\SVJK.Ms.Articulo.Infraestructura\obj\Debug\netcoreapp3.1\SVJK.Ms.Articulo.Infraestructura.csproj.CopyComplete
+C:\Microservicios JK\Solucion Sistema de Venta JK\SVJK.Ms.Articulo.Infraestructura\obj\Debug\netcoreapp3.1\SVJK.Ms.Articulo.Infraestructura.dll
+C:\Microservicios JK\Solucion Sistema de Venta JK\SVJK.Ms.Articulo.Infraestructura\obj\Debug\netcoreapp3.1\SVJK.Ms.Articulo.Infraestructura.pdb

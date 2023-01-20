@@ -1,0 +1,10 @@
+C:\Microservicios JK\Solucion Sistema de Venta JK\SVJK.Ms.Articulo.Dominio\bin\Debug\netcoreapp3.1\SVJK.Ms.Articulo.Dominio.deps.json
+C:\Microservicios JK\Solucion Sistema de Venta JK\SVJK.Ms.Articulo.Dominio\bin\Debug\netcoreapp3.1\SVJK.Ms.Articulo.Dominio.dll
+C:\Microservicios JK\Solucion Sistema de Venta JK\SVJK.Ms.Articulo.Dominio\bin\Debug\netcoreapp3.1\SVJK.Ms.Articulo.Dominio.pdb
+C:\Microservicios JK\Solucion Sistema de Venta JK\SVJK.Ms.Articulo.Dominio\obj\Debug\netcoreapp3.1\SVJK.Ms.Articulo.Dominio.csproj.AssemblyReference.cache
+C:\Microservicios JK\Solucion Sistema de Venta JK\SVJK.Ms.Articulo.Dominio\obj\Debug\netcoreapp3.1\SVJK.Ms.Articulo.Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Microservicios JK\Solucion Sistema de Venta JK\SVJK.Ms.Articulo.Dominio\obj\Debug\netcoreapp3.1\SVJK.Ms.Articulo.Dominio.AssemblyInfoInputs.cache
+C:\Microservicios JK\Solucion Sistema de Venta JK\SVJK.Ms.Articulo.Dominio\obj\Debug\netcoreapp3.1\SVJK.Ms.Articulo.Dominio.AssemblyInfo.cs
+C:\Microservicios JK\Solucion Sistema de Venta JK\SVJK.Ms.Articulo.Dominio\obj\Debug\netcoreapp3.1\SVJK.Ms.Articulo.Dominio.csproj.CoreCompileInputs.cache
+C:\Microservicios JK\Solucion Sistema de Venta JK\SVJK.Ms.Articulo.Dominio\obj\Debug\netcoreapp3.1\SVJK.Ms.Articulo.Dominio.dll
+C:\Microservicios JK\Solucion Sistema de Venta JK\SVJK.Ms.Articulo.Dominio\obj\Debug\netcoreapp3.1\SVJK.Ms.Articulo.Dominio.pdb
