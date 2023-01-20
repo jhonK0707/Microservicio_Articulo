@@ -42,7 +42,7 @@ namespace SVJK.Ms.Articulo.Infraestructura.Repositorios
         {
             var bd = bdConnection();
             var sql = @" INSERT INTO articulos (id_categoria, codigo, nombre, precio_venta, stock, descripcion)
-                        VALUES (@Id_categoria, @Codigo, @Nombre, @Precio_venta, @Stock, @Descripcion) ";
+                        VALUES (@Categoria, @Codigo, @Nombre, @Precio, @Stock, @Descripcion) ";
 
             var resultado = await bd.ExecuteAsync(sql, new {articulo.Categoria, articulo.Codigo, articulo.Nombre,
                             articulo.Precio, articulo.Stock, articulo.Descripcion });
@@ -53,8 +53,8 @@ namespace SVJK.Ms.Articulo.Infraestructura.Repositorios
         public async Task<bool> ActualizarArticulo(Dominio.Entidades.Articulo articulo)
         {
             var bd = bdConnection();
-            var sql = @"UPDATE articulos SET id_categoria = @id_categoria , codigo = @codigo, nombre = @nombre, precio_venta = @precio_venta, 
-                               stock = @stock , descripcion = @descripcion WHERE id_articulo = @Id";
+            var sql = @"UPDATE articulos SET id_categoria = @Categoria , codigo = @Codigo, nombre = @Nombre, precio_venta = @Precio, 
+                               stock = @Stock , descripcion = @Descripcion WHERE id_articulo = @Id";
            var resultado = await bd.ExecuteAsync(sql, new { articulo.Id, articulo.Categoria, articulo.Codigo, articulo.Nombre,
                             articulo.Precio, articulo.Stock, articulo.Descripcion });
 
