@@ -34,7 +34,7 @@ namespace SVJK.Ms.Articulo.Infraestructura.Repositorios
         {
             var bd = bdConnection();
             var sql = @"SELECT id_articulo, id_categoria, codigo, nombre, precio_venta, stock, descripcion FROM articulos
-                        WHERE id = @id";
+                        WHERE id_articulo = @Id";
             return await bd.QueryFirstOrDefaultAsync<Dominio.Entidades.Articulo>(sql, new { Id = id});
         }
 
@@ -54,7 +54,7 @@ namespace SVJK.Ms.Articulo.Infraestructura.Repositorios
         {
             var bd = bdConnection();
             var sql = @"UPDATE articulos SET id_categoria = @id_categoria , codigo = @codigo, nombre = @nombre, precio_venta = @precio_venta, 
-                               stock = @stock , descripcion = @descripcion WHERE id = @id";
+                               stock = @stock , descripcion = @descripcion WHERE id_articulo = @Id";
            var resultado = await bd.ExecuteAsync(sql, new { articulo.Id, articulo.Categoria, articulo.Codigo, articulo.Nombre,
                             articulo.Precio, articulo.Stock, articulo.Descripcion });
 
@@ -65,7 +65,7 @@ namespace SVJK.Ms.Articulo.Infraestructura.Repositorios
         {
             var bd = bdConnection();
             var sql = @"DELETE FROM articulos
-                        WHERE id = @id";
+                        WHERE id_articulo = @Id";
             var resultado =  await bd.ExecuteAsync(sql, new {id = articulo.Id });
             return resultado > 0;
 
